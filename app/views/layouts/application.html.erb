@@ -10,16 +10,16 @@
 	<div class="navbar navbar-fixed-top">
 		<div class="navbar-inner">
 			<div class="container">
-				<a class="brand" href="#">Title</a>
+				<a class="brand" href="#">Treebook</a>
 				<ul class="nav">
-					<li class="active"><%= link_to "All Statuses", statuses_path %></li>
-					<li><a href="#">Link</a></li>
-					<li><a href="#">Link</a></li>
+					<li><%= link_to "All Statuses", statuses_path %></li>
 				</ul>
 			</div>
 		</div>
 	</div>
 	<div class="container">
+		<p class="notice"><%= notice %></p>
+		<p class="alert"><%= alert %></p>
 		<%= yield %>
 	</div>
 
