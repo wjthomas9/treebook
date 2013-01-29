@@ -3,4 +3,9 @@ jon:
   last_name: "Thomas"
   email: "jon@clearfirestudios.com"
   profile_name: "jthomas"
-  encrypted_password: "password"
+
+jim:
+  first_name: "Brooke"
+  last_name: "Thomas"
+  email: "brooke@clearfirestudios.com"
+  profile_name: "bthomas"
