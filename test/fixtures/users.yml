@@ -9,3 +9,9 @@ brooke:
   last_name: "Thomas"
   email: "brooke@clearfirestudios.com"
   profile_name: "bthomas"
+
+mike:
+  first_name: "mike"
+  last_name: "The Frog"
+  email: "mike@clearfirestudios.com"
+  profile_name: "mikethefrog"
